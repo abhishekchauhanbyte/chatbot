@@ -1,13 +1,14 @@
 categories:
 - conversations
 conversations:
-- - Good Evening
-  - Good evening
-- - Hello 
-  - Hey how are you?
-- - I am fine but feeling bored.
-  - ohh what you want me to do?
-- - I want to see a Movie?
-  - Ok shall I give your favourite movie list?
-- - Yes Avengers playlist.
-  - Okay done enjoy the movie.
+- - I need to book a flight , I need to book a hotel ,I need to book a cab
+  - which city you are going to?
+- - New Delhi ,Agra
+  - Which city are you leaving from?
+- - Bangalore ,Gujarat
+  - what is the travel date?
+- - 10 jan
+  - Thanks your flight details will be shared soon.
+- - 3 days
+  - Thanks your hotel details will be shared soon.
+
