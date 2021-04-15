@@ -1,1 +1,2 @@
-# chatbot using flask for particular dataset.
+# chatbot using flask trained using neural network for a given dataset
+
